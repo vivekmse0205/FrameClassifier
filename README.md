@@ -26,4 +26,7 @@ curl --location --request POST "localhost:5000/api/v1/getframetype"
 -F "file=@test/cgqt3xirYSM_key_frame_0_0.png"
 *The above command tested in windows 8.1 machine with all dependencies installed.
 ```
-
+## Results
+ ```
+ https://github.com/vivekmse0205/FrameClassifier/blob/master/frame_classifier_validation.ipynb
+ ```
